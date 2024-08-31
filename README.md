@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me reach out your hand
 - 😄 Pronouns: ...
-- ⚡ Fun fact: did you know that if you drink water you could be hydrated
+- ⚡ Fun fact: did you know that if you drink water you will be hydrated
 
 <!---
 Robbiemanimtim/Robbiemanimtim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
